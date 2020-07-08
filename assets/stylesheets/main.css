@@ -4,7 +4,7 @@
 
 ©2012 lynda.com
 This style sheet may be reused for personal education only
-any reuse, educational or otherwise, without the expressed 
+any reuse, educational or otherwise, without the expressed
 consent of lynda.com is prohibited.*/
 
 /* -------- color guide ----------
@@ -20,9 +20,9 @@ consent of lynda.com is prohibited.*/
 #896287 : purple
 */
 
-/* to jump to a specific section search for the unique character pair at the front of each TOC section 
+/* to jump to a specific section search for the unique character pair at the front of each TOC section
   <<<tip, highlight the special character and use the shortcut for Find Selection Cntr/Cmd + Shift + G >> */
-  
+
   /* ----- Style sheet TOC ----------------
       ^1 Global constants
     ^2 Global classes
@@ -115,7 +115,7 @@ span.accent {
   font: normal 2.8em Helvetica, Arial, sans-serif;
   color: #fff;
   text-shadow: 1px 0px 0px #000;
-  filter: dropshadow(color=#000000, offx=1, offy=0); 
+  filter: dropshadow(color=#000000, offx=1, offy=0);
   margin: 70px 0 0 607px;
   letter-spacing:1px;
 }
@@ -227,7 +227,7 @@ span.accent {
   width: 192px;
   height: 237px;
   display: block;
-  background: url(../images/smalldrtmusha.jpeg) no-repeat;
+  background: url(../images/smalldrtmusha.jpg) no-repeat;
   position: absolute;
   top: -25px;
   left: 50px;
@@ -300,7 +300,7 @@ span.accent {
   border-top-left-radius: 0px;
   border-top-right-radius: 0px;
   border-bottom-right-radius: 10px;
-  border-bottom-left-radius: 10px; 
+  border-bottom-left-radius: 10px;
   width: 100%;
   background: #fff;
 }
@@ -793,7 +793,7 @@ span.accent {
   padding-bottom: 1em;
   padding-right: 2em;
 }
-/* footer region ^5h */  
+/* footer region ^5h */
 #pageFooter div {
   float: left;
   width: 341px;
